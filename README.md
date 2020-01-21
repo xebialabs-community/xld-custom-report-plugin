@@ -1,6 +1,8 @@
 # XL Deploy Custom Report Plugin
 
-
+[![Travis (.org)](https://img.shields.io/travis/xebialabs-community/xld-custom-report-plugin)](https://travis-ci.org/xebialabs-community/xld-custom-report-plugin)
+[![GitHub](https://img.shields.io/github/license/xebialabs-community/xld-custom-report-plugin)](https://opensource.org/licenses/MIT)
+[![GitHub All Releases](https://img.shields.io/github/downloads/xebialabs-community/xld-custom-report-plugin/total)](https://github.com/xebialabs-community/xld-custom-report-plugin/releases/latest)
 
 ## Preface
 This document describes the functionality provided by the 'xld-custom-report-plugin'
